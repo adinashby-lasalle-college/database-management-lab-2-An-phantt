@@ -58,9 +58,12 @@ A report is a formatted presentation of data from your database. It allows you t
 
 #### Questions:
 1. What are the differences between a report and a query in Access?
+the query finds the information in the database for you, and the report is a way to display and analyze the information 
 2. Why is it beneficial to generate reports from a database?
+Easier to observe the data in more general perspective 
 
 ---
 
 ### Part 3: Conclusion
 - **Discussion**: Summarize the role of forms in easing data entry and navigation, and discuss how reports provide a professional way to present data for analysis, printing, or sharing.
+Forms play a crucial role in easing data entry and navigation by providing a structured and user-friendly interface for users to input information.
